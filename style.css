@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+    
+}
+
+.meniu {
+    background-color:saddlebrown;
+    height: 42px;
+    font-size: 28px;
+    border-collapse: collapse;
+    border:3px solid;
+}
+
+.contact {
+ width: 100%;
+
+}
